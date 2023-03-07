@@ -10,9 +10,11 @@ Identifying the compiler family and optimization level is a crucial phase for ma
 5.  Optimization classification problem was tested over deep learning.
 
 **Results:**
-The best test accuracy of 100% was achieved by the stacking model for the classification of the compiler family, and 85.9%  for the optimization level by the deep learning model.<br /> <br />
-<img src="https://github.com/MohamedElahl/Compiler-provenance-using-machine-learning/blob/main/assets/compiler%20family%20results.png" alt="Compiler Family Confusion Matrix" /> 
-<img src="https://github.com/MohamedElahl/Compiler-provenance-using-machine-learning/blob/main/assets/optimization%20level%20results.png" alt="optimization level results"/> 
+The best test accuracy of 100% was achieved by the stacking model for the classification of the compiler family, and 85.9%  for the optimization level by the deep learning model.<br /> 
+
+<p align="left"> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/MohamedElahl/Compiler-provenance-using-machine-learning/blob/main/assets/compiler%20family%20results.png" alt="Compiler Family Confusion Matrix" width="500" height="500"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/MohamedElahl/Compiler-provenance-using-machine-learning/blob/main/assets/optimization%20level%20results.png" alt="optimization level results" width="500" height="500"/> </a></p>
 
 
 ## Dataset
